@@ -1,6 +1,8 @@
 # 💫 Обо мне:
 Разработчик SCADA систем 👨‍💻
 
+[![CodeWars](https://www.codewars.com/users/KepLer100500/badges/large)](https://www.codewars.com/users/KepLer100500)
+
 [![](https://visitcount.itsvg.in/api?id=KepLer100500&icon=0&color=3)](https://visitcount.itsvg.in)
 
 # 💻 Имеется опыт работы с:
